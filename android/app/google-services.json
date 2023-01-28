@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581425840773",
+    "project_id": "demosociallogin-20a55",
+    "storage_bucket": "demosociallogin-20a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581425840773:android:03d6d4da26aa0f6db51fec",
+        "android_client_info": {
+          "package_name": "com.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581425840773-vhib26l3h0f0ti40e0vf207dap7jcp84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKYIr9pfvVpp5gv5GP9c9fDegEp9dKXKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581425840773-5qrebn26uh1c0rp45nq7gckg6m0a07n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
